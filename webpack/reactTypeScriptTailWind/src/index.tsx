@@ -12,6 +12,6 @@ const container = document.getElementById('app-root')!
 const root = createRoot(container)
 root.render(
 <>
-<h1 className='underline'>Hello React TypeScript & Tailwind!</h1>
+<h1 className='underline uppercase'>Hello React TypeScript & Tailwind!</h1>
 </>
 )
